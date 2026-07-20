@@ -1,0 +1,12 @@
+# Interface gráfica acessível
+wxPython==4.2.3
+
+# Cliente HTTP e utilitários
+requests==2.32.3
+python-dotenv==1.0.1
+
+# Empacotamento em executável
+pyinstaller==6.10.0
+
+# Testes
+pytest==8.3.3
